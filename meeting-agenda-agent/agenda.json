@@ -1,0 +1,37 @@
+{
+  "meeting_title": "Q1 Product Planning",
+  "objective": "Decide priorities for Q1 roadmap and align teams",
+  "total_duration_minutes": 60,
+  "agenda": [
+    {
+      "topic": "Introduction and Meeting Objectives",
+      "time_minutes": 5,
+      "owner": "Product Manager",
+      "outcome": "Clear understanding of meeting goals and agenda"
+    },
+    {
+      "topic": "Review Proposed Features for Q1",
+      "time_minutes": 15,
+      "owner": "Product Manager",
+      "outcome": "All participants understand the feature options"
+    },
+    {
+      "topic": "Discussion on Feature Priorities",
+      "time_minutes": 20,
+      "owner": "All Participants",
+      "outcome": "Consensus on the importance and impact of each feature"
+    },
+    {
+      "topic": "Decision: Select Top 3 Features for Q1 Roadmap",
+      "time_minutes": 15,
+      "owner": "All Participants",
+      "outcome": "Agreement on top 3 features to prioritize (Decision Point)"
+    },
+    {
+      "topic": "Alignment on Next Steps and Team Responsibilities",
+      "time_minutes": 5,
+      "owner": "Product Manager",
+      "outcome": "Clear action items and team alignment"
+    }
+  ]
+}
